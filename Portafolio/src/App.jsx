@@ -19,6 +19,7 @@ const App = () => {
         <section id="about" className="section-with-image">
           <div className="text">
             <h2>Sobre mí</h2>
+            <h2>Isabella Maria Miralles Penagos</h2>
             <p>
               Soy una estudiante apacionada por el mundo de la programacion y la creacion de nuevos proyectos e ideas que se pueden desarrollar por medio de código.
               Me encuentro en un punto de desarrollo donde empiezo a conocer y aprender sobre las distintas ramas que tiene la programación, conociendo nuevos alcances,
